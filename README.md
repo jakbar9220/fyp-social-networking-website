@@ -7,7 +7,7 @@ In this project we are basically working on four essential features or modules (
 
 **1. Public and Private DP & Cover Photo:**
 
-This module helps the user’s to set different profile photo and cover photo for their friend’s in the friend list &at the same time they can select and show different profile picture and cover photo to other persons.
+This module helps the users to set different profile photo and cover photo for their friend’s in the friend list &at the same time they can select and show different profile picture and cover photo to other persons.
 
 
 **2.  Password Sending To Mail:** 
