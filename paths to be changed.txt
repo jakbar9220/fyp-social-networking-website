@@ -1,0 +1,9 @@
+1. In 'web.xml':
+     C:\Users\ch\Desktop\friendlink\Site1\web\images\ 
+
+2. In 'head.jsp'':
+    C:\Users\ch\Desktop\friendlink\Site1\web\
+
+3. In 'viewprofile.jsp':
+     C:\Users\ch\Desktop\friendlink\Site1\web\
+
